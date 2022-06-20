@@ -5,3 +5,5 @@ There is still room for improvement, especially for "affected versions". The mai
 However, this should get most data.
 
 This tool was inspired by the [Typo3Scan](https://github.com/whoot/Typo3Scan) advisory crawler, as I wanted to improve that crawler and make it more robust. However, in the end that would've been to much work... The most time efficent way would probably to just create one base-database (validated by hand) for all the old Typo3 vulnerabilities, and then only crawl for new vulnerabilities (They seem to have gotten better with their formatting cconsistency).
+
+This tool is NOT a vulnerability scanner!
